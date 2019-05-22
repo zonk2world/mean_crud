@@ -1,0 +1,14 @@
+.table td,
+.table th {
+  font-family: 'Roboto', sans-serif;
+  vertical-align: middle;
+}
+
+.table thead td {
+  font-weight: 600;
+}
+
+.btn > i {
+  color: #fff;
+  cursor: pointer;
+}
