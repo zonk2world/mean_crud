@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 
 export class PersonService {
 
-  uri = 'http://localhost:4000/person';
+  uri = 'http://83.166.242.254:4000/person';
 
   constructor( private http: HttpClient ) { }
 
